@@ -22,3 +22,16 @@ A simple calculator that performs:
 
 ## Author
 Ibrahem Jalali
+## Project: Function Grapher
+A Python tool that graphs mathematical functions.
+
+### Features
+- Graphs user-input functions
+- Supports functions like:
+  - x**2
+  - 2*x + 3
+  - np.sin(x)
+
+### Libraries Used
+- NumPy
+- Matplotlib
